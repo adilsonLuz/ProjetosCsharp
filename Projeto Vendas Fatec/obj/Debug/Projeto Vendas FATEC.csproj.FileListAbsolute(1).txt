@@ -1,0 +1,40 @@
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Projeto Vendas FATEC.exe.config
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Projeto Vendas FATEC.exe
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Projeto Vendas FATEC.pdb
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Google.Protobuf.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\MySql.Data.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Renci.SshNet.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\System.Buffers.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\System.Memory.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Zstandard.Net.dll
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Google.Protobuf.pdb
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Google.Protobuf.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\MySql.Data.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\Renci.SshNet.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\System.Buffers.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\System.Memory.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto Vendas FATEC.csprojAssemblyReference.cache
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto Vendas FATEC.exe.config
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto_Vendas_FATEC.Properties.Resources.resources
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto Vendas FATEC.csproj.GenerateResource.cache
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto Vendas FATEC.csproj.CoreCompileInputs.cache
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto Vendas FATEC.csproj.CopyComplete
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto Vendas FATEC.exe
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto Vendas FATEC.pdb
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto_Vendas_FATEC.Form2.resources
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto_Vendas_FATEC.br.com.pdv.views.Frmclientes.resources
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto_Vendas_FATEC.br.com.pdv.views.FrmFuncionario.resources
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto_Vendas_FATEC.br.com.pdv.views.FrmProdutos.resources
+C:\Users\Adilson\OneDrive - Fatec Centro Paula Souza\Documents\FATEC\4Semestre\LabBancoDado\Projeto Vendas FATEC\obj\Debug\Projeto_Vendas_FATEC.br.com.pdv.views.FrmFornecedores.resources
